@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\release\additionnal-59a4bcb5c2766a10be70353539c328af1428a025.jar" />
+    </item>
+    <item
+        jar="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\libs\activation.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\release\activation-6eff31c6c013b5e9ac68be5cff5b850a8c6cedfc.jar" />
+    </item>
+    <item
+        jar="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-06ccc5667bf9294e2a7db65195d7e362aa30aaad.jar" />
+    </item>
+    <item
+        jar="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\libs\mail.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\release\mail-461877ce2f6974a65c0d46ae7dbce4bb5c1ebd42.jar" />
+    </item>
+    <item
+        jar="D:\Development\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-a8275d76b8703ee08754fdf99fb8ba17289620f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-e9b32ee0f85c9e1b5e89b81aae4e73b626a8ef3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-ee1d84a99a04b2cb355cc9ff3151a6d41ffd75fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\libs\volley.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\volley-2e82a883d80c37d6a81e3565be75272705595f73.jar" />
+    </item>
+    <item
+        jar="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\vikas kumar\Downloads\android assests\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-afd8ba48cc24fe988042735dc0e3fb0c5217292d.jar" />
+    </item>
+
+</items>
